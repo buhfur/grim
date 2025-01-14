@@ -1,0 +1,2049 @@
+Port number : 1
+Port Service Name: tcpmux
+
+Port number : 2
+Port Service Name: nbp
+
+Port number : 4
+Port Service Name: echo
+
+Port number : 5
+Port Service Name: rje
+
+Port number : 6
+Port Service Name: zip
+
+Port number : 7
+Port Service Name: echo
+
+Port number : 9
+Port Service Name: discard
+
+Port number : 11
+Port Service Name: systat
+
+Port number : 13
+Port Service Name: daytime
+
+Port number : 15
+Port Service Name: netstat
+
+Port number : 17
+Port Service Name: qotd
+
+Port number : 19
+Port Service Name: chargen
+
+Port number : 20
+Port Service Name: ftp-data
+
+Port number : 21
+Port Service Name: ftp
+
+Port number : 22
+Port Service Name: ssh
+
+Port number : 23
+Port Service Name: telnet
+
+Port number : 24
+Port Service Name: lmtp
+
+Port number : 25
+Port Service Name: smtp
+
+Port number : 27
+Port Service Name: nsw-fe
+
+Port number : 29
+Port Service Name: msg-icp
+
+Port number : 31
+Port Service Name: msg-auth
+
+Port number : 33
+Port Service Name: dsp
+
+Port number : 37
+Port Service Name: time
+
+Port number : 39
+Port Service Name: rlp
+
+Port number : 41
+Port Service Name: graphics
+
+Port number : 42
+Port Service Name: nameserver
+
+Port number : 43
+Port Service Name: nicname
+
+Port number : 44
+Port Service Name: mpm-flags
+
+Port number : 45
+Port Service Name: mpm
+
+Port number : 46
+Port Service Name: mpm-snd
+
+Port number : 47
+Port Service Name: ni-ftp
+
+Port number : 48
+Port Service Name: auditd
+
+Port number : 49
+Port Service Name: tacacs
+
+Port number : 50
+Port Service Name: re-mail-ck
+
+Port number : 51
+Port Service Name: la-maint
+
+Port number : 52
+Port Service Name: xns-time
+
+Port number : 53
+Port Service Name: domain
+
+Port number : 54
+Port Service Name: xns-ch
+
+Port number : 55
+Port Service Name: isi-gl
+
+Port number : 56
+Port Service Name: xns-auth
+
+Port number : 58
+Port Service Name: xns-mail
+
+Port number : 61
+Port Service Name: ni-mail
+
+Port number : 62
+Port Service Name: acas
+
+Port number : 63
+Port Service Name: whois++
+
+Port number : 64
+Port Service Name: covia
+
+Port number : 65
+Port Service Name: tacacs-ds
+
+Port number : 66
+Port Service Name: sql*net
+
+Port number : 67
+Port Service Name: bootps
+
+Port number : 68
+Port Service Name: bootpc
+
+Port number : 69
+Port Service Name: tftp
+
+Port number : 70
+Port Service Name: gopher
+
+Port number : 71
+Port Service Name: netrjs-1
+
+Port number : 72
+Port Service Name: netrjs-2
+
+Port number : 73
+Port Service Name: netrjs-3
+
+Port number : 74
+Port Service Name: netrjs-4
+
+Port number : 76
+Port Service Name: deos
+
+Port number : 78
+Port Service Name: vettcp
+
+Port number : 79
+Port Service Name: finger
+
+Port number : 80
+Port Service Name: http
+
+Port number : 82
+Port Service Name: xfer
+
+Port number : 84
+Port Service Name: ctf
+
+Port number : 85
+Port Service Name: mit-ml-dev
+
+Port number : 86
+Port Service Name: mfcobol
+
+Port number : 88
+Port Service Name: kerberos
+
+Port number : 89
+Port Service Name: su-mit-tg
+
+Port number : 90
+Port Service Name: dnsix
+
+Port number : 91
+Port Service Name: mit-dov
+
+Port number : 93
+Port Service Name: dcp
+
+Port number : 94
+Port Service Name: objcall
+
+Port number : 95
+Port Service Name: supdup
+
+Port number : 96
+Port Service Name: dixie
+
+Port number : 97
+Port Service Name: swift-rvf
+
+Port number : 98
+Port Service Name: tacnews
+
+Port number : 99
+Port Service Name: metagram
+
+Port number : 100
+Port Service Name: newacct
+
+Port number : 101
+Port Service Name: hostname
+
+Port number : 102
+Port Service Name: iso-tsap
+
+Port number : 103
+Port Service Name: gppitnp
+
+Port number : 104
+Port Service Name: acr-nema
+
+Port number : 105
+Port Service Name: csnet-ns
+
+Port number : 106
+Port Service Name: poppassd
+
+Port number : 107
+Port Service Name: rtelnet
+
+Port number : 108
+Port Service Name: snagas
+
+Port number : 109
+Port Service Name: pop2
+
+Port number : 110
+Port Service Name: pop3
+
+Port number : 111
+Port Service Name: sunrpc
+
+Port number : 112
+Port Service Name: mcidas
+
+Port number : 113
+Port Service Name: auth
+
+Port number : 115
+Port Service Name: sftp
+
+Port number : 116
+Port Service Name: ansanotify
+
+Port number : 117
+Port Service Name: uucp-path
+
+Port number : 118
+Port Service Name: sqlserv
+
+Port number : 119
+Port Service Name: nntp
+
+Port number : 120
+Port Service Name: cfdptkt
+
+Port number : 121
+Port Service Name: erpc
+
+Port number : 122
+Port Service Name: smakynet
+
+Port number : 123
+Port Service Name: ntp
+
+Port number : 124
+Port Service Name: ansatrader
+
+Port number : 125
+Port Service Name: locus-map
+
+Port number : 126
+Port Service Name: nxedit
+
+Port number : 127
+Port Service Name: locus-con
+
+Port number : 128
+Port Service Name: gss-xlicen
+
+Port number : 129
+Port Service Name: pwdgen
+
+Port number : 130
+Port Service Name: cisco-fna
+
+Port number : 131
+Port Service Name: cisco-tna
+
+Port number : 132
+Port Service Name: cisco-sys
+
+Port number : 133
+Port Service Name: statsrv
+
+Port number : 134
+Port Service Name: ingres-net
+
+Port number : 135
+Port Service Name: epmap
+
+Port number : 136
+Port Service Name: profile
+
+Port number : 137
+Port Service Name: netbios-ns
+
+Port number : 138
+Port Service Name: netbios-dgm
+
+Port number : 139
+Port Service Name: netbios-ssn
+
+Port number : 140
+Port Service Name: emfis-data
+
+Port number : 141
+Port Service Name: emfis-cntl
+
+Port number : 142
+Port Service Name: bl-idm
+
+Port number : 143
+Port Service Name: imap
+
+Port number : 145
+Port Service Name: uaac
+
+Port number : 146
+Port Service Name: iso-tp0
+
+Port number : 147
+Port Service Name: iso-ip
+
+Port number : 148
+Port Service Name: jargon
+
+Port number : 149
+Port Service Name: aed-512
+
+Port number : 150
+Port Service Name: sql-net
+
+Port number : 151
+Port Service Name: hems
+
+Port number : 152
+Port Service Name: bftp
+
+Port number : 153
+Port Service Name: sgmp
+
+Port number : 154
+Port Service Name: netsc-prod
+
+Port number : 155
+Port Service Name: netsc-dev
+
+Port number : 156
+Port Service Name: sqlsrv
+
+Port number : 157
+Port Service Name: knet-cmp
+
+Port number : 158
+Port Service Name: pcmail-srv
+
+Port number : 159
+Port Service Name: nss-routing
+
+Port number : 160
+Port Service Name: sgmp-traps
+
+Port number : 161
+Port Service Name: snmp
+
+Port number : 162
+Port Service Name: snmptrap
+
+Port number : 163
+Port Service Name: cmip-man
+
+Port number : 164
+Port Service Name: cmip-agent
+
+Port number : 165
+Port Service Name: xns-courier
+
+Port number : 166
+Port Service Name: s-net
+
+Port number : 167
+Port Service Name: namp
+
+Port number : 168
+Port Service Name: rsvd
+
+Port number : 169
+Port Service Name: send
+
+Port number : 170
+Port Service Name: print-srv
+
+Port number : 171
+Port Service Name: multiplex
+
+Port number : 172
+Port Service Name: cl/1
+
+Port number : 173
+Port Service Name: xyplex-mux
+
+Port number : 174
+Port Service Name: mailq
+
+Port number : 175
+Port Service Name: vmnet
+
+Port number : 176
+Port Service Name: genrad-mux
+
+Port number : 177
+Port Service Name: xdmcp
+
+Port number : 178
+Port Service Name: nextstep
+
+Port number : 179
+Port Service Name: bgp
+
+Port number : 180
+Port Service Name: ris
+
+Port number : 181
+Port Service Name: unify
+
+Port number : 182
+Port Service Name: audit
+
+Port number : 183
+Port Service Name: ocbinder
+
+Port number : 184
+Port Service Name: ocserver
+
+Port number : 185
+Port Service Name: remote-kis
+
+Port number : 186
+Port Service Name: kis
+
+Port number : 187
+Port Service Name: aci
+
+Port number : 188
+Port Service Name: mumps
+
+Port number : 189
+Port Service Name: qft
+
+Port number : 190
+Port Service Name: gacp
+
+Port number : 191
+Port Service Name: prospero
+
+Port number : 192
+Port Service Name: osu-nms
+
+Port number : 193
+Port Service Name: srmp
+
+Port number : 194
+Port Service Name: irc
+
+Port number : 195
+Port Service Name: dn6-nlm-aud
+
+Port number : 196
+Port Service Name: dn6-smm-red
+
+Port number : 198
+Port Service Name: dls-mon
+
+Port number : 199
+Port Service Name: smux
+
+Port number : 200
+Port Service Name: src
+
+Port number : 201
+Port Service Name: at-rtmp
+
+Port number : 202
+Port Service Name: at-nbp
+
+Port number : 203
+Port Service Name: at-3
+
+Port number : 204
+Port Service Name: at-echo
+
+Port number : 205
+Port Service Name: at-5
+
+Port number : 206
+Port Service Name: at-zis
+
+Port number : 207
+Port Service Name: at-7
+
+Port number : 208
+Port Service Name: at-8
+
+Port number : 209
+Port Service Name: qmtp
+
+Port number : 210
+Port Service Name: z39.50
+
+Port number : 211
+Port Service Name: 914c/g
+
+Port number : 212
+Port Service Name: anet
+
+Port number : 213
+Port Service Name: ipx
+
+Port number : 214
+Port Service Name: vmpwscs
+
+Port number : 215
+Port Service Name: softpc
+
+Port number : 216
+Port Service Name: CAIlic
+
+Port number : 217
+Port Service Name: dbase
+
+Port number : 218
+Port Service Name: mpp
+
+Port number : 219
+Port Service Name: uarps
+
+Port number : 220
+Port Service Name: imap3
+
+Port number : 221
+Port Service Name: fln-spx
+
+Port number : 222
+Port Service Name: rsh-spx
+
+Port number : 223
+Port Service Name: cdc
+
+Port number : 224
+Port Service Name: masqdialer
+
+Port number : 242
+Port Service Name: direct
+
+Port number : 243
+Port Service Name: sur-meas
+
+Port number : 244
+Port Service Name: inbusiness
+
+Port number : 245
+Port Service Name: link
+
+Port number : 246
+Port Service Name: dsp3270
+
+Port number : 247
+Port Service Name: subntbcst_tftp
+
+Port number : 248
+Port Service Name: bhfhs
+
+Port number : 256
+Port Service Name: rap
+
+Port number : 257
+Port Service Name: set
+
+Port number : 259
+Port Service Name: esro-gen
+
+Port number : 260
+Port Service Name: openport
+
+Port number : 261
+Port Service Name: nsiiops
+
+Port number : 262
+Port Service Name: arcisdms
+
+Port number : 263
+Port Service Name: hdap
+
+Port number : 264
+Port Service Name: bgmp
+
+Port number : 265
+Port Service Name: x-bone-ctl
+
+Port number : 266
+Port Service Name: sst
+
+Port number : 267
+Port Service Name: td-service
+
+Port number : 268
+Port Service Name: td-replica
+
+Port number : 269
+Port Service Name: manet
+
+Port number : 270
+Port Service Name: gist
+
+Port number : 271
+Port Service Name: pt-tls
+
+Port number : 280
+Port Service Name: http-mgmt
+
+Port number : 281
+Port Service Name: personal-link
+
+Port number : 282
+Port Service Name: cableport-ax
+
+Port number : 283
+Port Service Name: rescap
+
+Port number : 284
+Port Service Name: corerjd
+
+Port number : 287
+Port Service Name: k-block
+
+Port number : 308
+Port Service Name: novastorbakcup
+
+Port number : 309
+Port Service Name: entrusttime
+
+Port number : 310
+Port Service Name: bhmds
+
+Port number : 311
+Port Service Name: asip-webadmin
+
+Port number : 312
+Port Service Name: vslmp
+
+Port number : 313
+Port Service Name: magenta-logic
+
+Port number : 314
+Port Service Name: opalis-robot
+
+Port number : 315
+Port Service Name: dpsi
+
+Port number : 316
+Port Service Name: decauth
+
+Port number : 317
+Port Service Name: zannet
+
+Port number : 318
+Port Service Name: pkix-timestamp
+
+Port number : 319
+Port Service Name: ptp-event
+
+Port number : 320
+Port Service Name: ptp-general
+
+Port number : 322
+Port Service Name: rtsps
+
+Port number : 323
+Port Service Name: rpki-rtr
+
+Port number : 324
+Port Service Name: rpki-rtr-tls
+
+Port number : 333
+Port Service Name: texar
+
+Port number : 344
+Port Service Name: pdap
+
+Port number : 345
+Port Service Name: pawserv
+
+Port number : 346
+Port Service Name: zserv
+
+Port number : 347
+Port Service Name: fatserv
+
+Port number : 348
+Port Service Name: csi-sgwp
+
+Port number : 350
+Port Service Name: matip-type-a
+
+Port number : 351
+Port Service Name: matip-type-b
+
+Port number : 352
+Port Service Name: dtag-ste-sb
+
+Port number : 353
+Port Service Name: ndsauth
+
+Port number : 354
+Port Service Name: bh611
+
+Port number : 355
+Port Service Name: datex-asn
+
+Port number : 356
+Port Service Name: cloanto-net-1
+
+Port number : 357
+Port Service Name: bhevent
+
+Port number : 358
+Port Service Name: shrinkwrap
+
+Port number : 359
+Port Service Name: nsrmp
+
+Port number : 360
+Port Service Name: scoi2odialog
+
+Port number : 361
+Port Service Name: semantix
+
+Port number : 362
+Port Service Name: srssend
+
+Port number : 363
+Port Service Name: rsvp_tunnel
+
+Port number : 364
+Port Service Name: aurora-cmgr
+
+Port number : 365
+Port Service Name: dtk
+
+Port number : 366
+Port Service Name: odmr
+
+Port number : 367
+Port Service Name: mortgageware
+
+Port number : 368
+Port Service Name: qbikgdp
+
+Port number : 369
+Port Service Name: rpc2portmap
+
+Port number : 370
+Port Service Name: codaauth2
+
+Port number : 371
+Port Service Name: clearcase
+
+Port number : 372
+Port Service Name: ulistproc
+
+Port number : 373
+Port Service Name: legent-1
+
+Port number : 374
+Port Service Name: legent-2
+
+Port number : 375
+Port Service Name: hassle
+
+Port number : 376
+Port Service Name: nip
+
+Port number : 377
+Port Service Name: tnETOS
+
+Port number : 378
+Port Service Name: dsETOS
+
+Port number : 379
+Port Service Name: is99c
+
+Port number : 380
+Port Service Name: is99s
+
+Port number : 381
+Port Service Name: hp-collector
+
+Port number : 382
+Port Service Name: hp-managed-node
+
+Port number : 383
+Port Service Name: hp-alarm-mgr
+
+Port number : 384
+Port Service Name: arns
+
+Port number : 385
+Port Service Name: ibm-app
+
+Port number : 386
+Port Service Name: asa
+
+Port number : 387
+Port Service Name: aurp
+
+Port number : 388
+Port Service Name: unidata-ldm
+
+Port number : 389
+Port Service Name: ldap
+
+Port number : 390
+Port Service Name: uis
+
+Port number : 391
+Port Service Name: synotics-relay
+
+Port number : 392
+Port Service Name: synotics-broker
+
+Port number : 393
+Port Service Name: meta5
+
+Port number : 394
+Port Service Name: embl-ndt
+
+Port number : 395
+Port Service Name: netcp
+
+Port number : 396
+Port Service Name: netware-ip
+
+Port number : 397
+Port Service Name: mptn
+
+Port number : 398
+Port Service Name: kryptolan
+
+Port number : 399
+Port Service Name: iso-tsap-c2
+
+Port number : 400
+Port Service Name: osb-sd
+
+Port number : 401
+Port Service Name: ups
+
+Port number : 402
+Port Service Name: genie
+
+Port number : 403
+Port Service Name: decap
+
+Port number : 404
+Port Service Name: nced
+
+Port number : 405
+Port Service Name: ncld
+
+Port number : 406
+Port Service Name: imsp
+
+Port number : 407
+Port Service Name: timbuktu
+
+Port number : 408
+Port Service Name: prm-sm
+
+Port number : 409
+Port Service Name: prm-nm
+
+Port number : 410
+Port Service Name: decladebug
+
+Port number : 411
+Port Service Name: rmt
+
+Port number : 412
+Port Service Name: synoptics-trap
+
+Port number : 413
+Port Service Name: smsp
+
+Port number : 414
+Port Service Name: infoseek
+
+Port number : 415
+Port Service Name: bnet
+
+Port number : 416
+Port Service Name: silverplatter
+
+Port number : 417
+Port Service Name: onmux
+
+Port number : 418
+Port Service Name: hyper-g
+
+Port number : 419
+Port Service Name: ariel1
+
+Port number : 420
+Port Service Name: smpte
+
+Port number : 421
+Port Service Name: ariel2
+
+Port number : 422
+Port Service Name: ariel3
+
+Port number : 423
+Port Service Name: opc-job-start
+
+Port number : 424
+Port Service Name: opc-job-track
+
+Port number : 425
+Port Service Name: icad-el
+
+Port number : 426
+Port Service Name: smartsdp
+
+Port number : 427
+Port Service Name: svrloc
+
+Port number : 428
+Port Service Name: ocs_cmu
+
+Port number : 429
+Port Service Name: ocs_amu
+
+Port number : 430
+Port Service Name: utmpsd
+
+Port number : 431
+Port Service Name: utmpcd
+
+Port number : 432
+Port Service Name: iasd
+
+Port number : 433
+Port Service Name: nnsp
+
+Port number : 434
+Port Service Name: mobileip-agent
+
+Port number : 435
+Port Service Name: mobilip-mn
+
+Port number : 436
+Port Service Name: dna-cml
+
+Port number : 437
+Port Service Name: comscm
+
+Port number : 438
+Port Service Name: dsfgw
+
+Port number : 439
+Port Service Name: dasp
+
+Port number : 440
+Port Service Name: sgcp
+
+Port number : 441
+Port Service Name: decvms-sysmgt
+
+Port number : 442
+Port Service Name: cvc_hostd
+
+Port number : 443
+Port Service Name: https
+
+Port number : 444
+Port Service Name: snpp
+
+Port number : 445
+Port Service Name: microsoft-ds
+
+Port number : 446
+Port Service Name: ddm-rdb
+
+Port number : 447
+Port Service Name: ddm-dfm
+
+Port number : 448
+Port Service Name: ddm-ssl
+
+Port number : 449
+Port Service Name: as-servermap
+
+Port number : 450
+Port Service Name: tserver
+
+Port number : 451
+Port Service Name: sfs-smp-net
+
+Port number : 452
+Port Service Name: sfs-config
+
+Port number : 456
+Port Service Name: macon-tcp
+
+Port number : 457
+Port Service Name: scohelp
+
+Port number : 458
+Port Service Name: appleqtc
+
+Port number : 459
+Port Service Name: ampr-rcmd
+
+Port number : 460
+Port Service Name: skronk
+
+Port number : 461
+Port Service Name: datasurfsrv
+
+Port number : 462
+Port Service Name: datasurfsrvsec
+
+Port number : 463
+Port Service Name: alpes
+
+Port number : 464
+Port Service Name: kpasswd
+
+Port number : 465
+Port Service Name: urd
+
+Port number : 466
+Port Service Name: digital-vrc
+
+Port number : 467
+Port Service Name: mylex-mapd
+
+Port number : 468
+Port Service Name: photuris
+
+Port number : 469
+Port Service Name: rcp
+
+Port number : 470
+Port Service Name: scx-proxy
+
+Port number : 471
+Port Service Name: mondex
+
+Port number : 472
+Port Service Name: ljk-login
+
+Port number : 473
+Port Service Name: hybrid-pop
+
+Port number : 474
+Port Service Name: tn-tl-w1
+
+Port number : 475
+Port Service Name: tcpnethaspsrv
+
+Port number : 476
+Port Service Name: tn-tl-fd1
+
+Port number : 477
+Port Service Name: ss7ns
+
+Port number : 478
+Port Service Name: spsc
+
+Port number : 479
+Port Service Name: iafserver
+
+Port number : 480
+Port Service Name: iafdbase
+
+Port number : 481
+Port Service Name: ph
+
+Port number : 482
+Port Service Name: bgs-nsi
+
+Port number : 483
+Port Service Name: ulpnet
+
+Port number : 484
+Port Service Name: integra-sme
+
+Port number : 485
+Port Service Name: powerburst
+
+Port number : 486
+Port Service Name: avian
+
+Port number : 487
+Port Service Name: saft
+
+Port number : 488
+Port Service Name: gss-http
+
+Port number : 489
+Port Service Name: nest-protocol
+
+Port number : 490
+Port Service Name: micom-pfs
+
+Port number : 491
+Port Service Name: go-login
+
+Port number : 492
+Port Service Name: ticf-1
+
+Port number : 493
+Port Service Name: ticf-2
+
+Port number : 494
+Port Service Name: pov-ray
+
+Port number : 495
+Port Service Name: intecourier
+
+Port number : 496
+Port Service Name: pim-rp-disc
+
+Port number : 497
+Port Service Name: retrospect
+
+Port number : 498
+Port Service Name: siam
+
+Port number : 499
+Port Service Name: iso-ill
+
+Port number : 500
+Port Service Name: isakmp
+
+Port number : 501
+Port Service Name: stmf
+
+Port number : 502
+Port Service Name: mbap
+
+Port number : 503
+Port Service Name: intrinsa
+
+Port number : 504
+Port Service Name: citadel
+
+Port number : 505
+Port Service Name: mailbox-lm
+
+Port number : 506
+Port Service Name: ohimsrv
+
+Port number : 507
+Port Service Name: crs
+
+Port number : 508
+Port Service Name: xvttp
+
+Port number : 509
+Port Service Name: snare
+
+Port number : 510
+Port Service Name: fcp
+
+Port number : 511
+Port Service Name: passgo
+
+Port number : 512
+Port Service Name: exec
+
+Port number : 513
+Port Service Name: login
+
+Port number : 514
+Port Service Name: shell
+
+Port number : 515
+Port Service Name: printer
+
+Port number : 516
+Port Service Name: videotex
+
+Port number : 517
+Port Service Name: talk
+
+Port number : 518
+Port Service Name: ntalk
+
+Port number : 519
+Port Service Name: utime
+
+Port number : 520
+Port Service Name: efs
+
+Port number : 521
+Port Service Name: ripng
+
+Port number : 522
+Port Service Name: ulp
+
+Port number : 523
+Port Service Name: ibm-db2
+
+Port number : 524
+Port Service Name: ncp
+
+Port number : 525
+Port Service Name: timed
+
+Port number : 526
+Port Service Name: tempo
+
+Port number : 527
+Port Service Name: stx
+
+Port number : 528
+Port Service Name: custix
+
+Port number : 529
+Port Service Name: irc-serv
+
+Port number : 530
+Port Service Name: courier
+
+Port number : 531
+Port Service Name: conference
+
+Port number : 532
+Port Service Name: netnews
+
+Port number : 533
+Port Service Name: netwall
+
+Port number : 534
+Port Service Name: windream
+
+Port number : 535
+Port Service Name: iiop
+
+Port number : 536
+Port Service Name: opalis-rdv
+
+Port number : 538
+Port Service Name: gdomap
+
+Port number : 539
+Port Service Name: apertus-ldp
+
+Port number : 540
+Port Service Name: uucp
+
+Port number : 541
+Port Service Name: uucp-rlogin
+
+Port number : 542
+Port Service Name: commerce
+
+Port number : 543
+Port Service Name: klogin
+
+Port number : 544
+Port Service Name: kshell
+
+Port number : 545
+Port Service Name: appleqtcsrvr
+
+Port number : 546
+Port Service Name: dhcpv6-client
+
+Port number : 547
+Port Service Name: dhcpv6-server
+
+Port number : 548
+Port Service Name: afpovertcp
+
+Port number : 549
+Port Service Name: idfp
+
+Port number : 550
+Port Service Name: new-rwho
+
+Port number : 551
+Port Service Name: cybercash
+
+Port number : 552
+Port Service Name: devshr-nts
+
+Port number : 553
+Port Service Name: pirp
+
+Port number : 554
+Port Service Name: rtsp
+
+Port number : 555
+Port Service Name: dsf
+
+Port number : 556
+Port Service Name: remotefs
+
+Port number : 557
+Port Service Name: openvms-sysipc
+
+Port number : 558
+Port Service Name: sdnskmp
+
+Port number : 559
+Port Service Name: teedtap
+
+Port number : 560
+Port Service Name: rmonitor
+
+Port number : 561
+Port Service Name: monitor
+
+Port number : 562
+Port Service Name: chshell
+
+Port number : 563
+Port Service Name: nntps
+
+Port number : 564
+Port Service Name: 9pfs
+
+Port number : 565
+Port Service Name: whoami
+
+Port number : 566
+Port Service Name: streettalk
+
+Port number : 567
+Port Service Name: banyan-rpc
+
+Port number : 568
+Port Service Name: ms-shuttle
+
+Port number : 569
+Port Service Name: ms-rome
+
+Port number : 571
+Port Service Name: meter
+
+Port number : 572
+Port Service Name: sonar
+
+Port number : 573
+Port Service Name: banyan-vip
+
+Port number : 574
+Port Service Name: ftp-agent
+
+Port number : 575
+Port Service Name: vemmi
+
+Port number : 576
+Port Service Name: ipcd
+
+Port number : 577
+Port Service Name: vnas
+
+Port number : 578
+Port Service Name: ipdd
+
+Port number : 579
+Port Service Name: decbsrv
+
+Port number : 580
+Port Service Name: sntp-heartbeat
+
+Port number : 581
+Port Service Name: bdp
+
+Port number : 582
+Port Service Name: scc-security
+
+Port number : 583
+Port Service Name: philips-vc
+
+Port number : 584
+Port Service Name: keyserver
+
+Port number : 586
+Port Service Name: password-chg
+
+Port number : 587
+Port Service Name: submission
+
+Port number : 588
+Port Service Name: cal
+
+Port number : 589
+Port Service Name: eyelink
+
+Port number : 590
+Port Service Name: tns-cml
+
+Port number : 592
+Port Service Name: eudora-set
+
+Port number : 593
+Port Service Name: http-rpc-epmap
+
+Port number : 594
+Port Service Name: tpip
+
+Port number : 595
+Port Service Name: cab-protocol
+
+Port number : 596
+Port Service Name: smsd
+
+Port number : 597
+Port Service Name: ptcnameservice
+
+Port number : 598
+Port Service Name: sco-websrvrmg3
+
+Port number : 599
+Port Service Name: acp
+
+Port number : 600
+Port Service Name: ipcserver
+
+Port number : 601
+Port Service Name: syslog-conn
+
+Port number : 602
+Port Service Name: xmlrpc-beep
+
+Port number : 603
+Port Service Name: idxp
+
+Port number : 604
+Port Service Name: tunnel
+
+Port number : 605
+Port Service Name: soap-beep
+
+Port number : 606
+Port Service Name: urm
+
+Port number : 607
+Port Service Name: nqs
+
+Port number : 608
+Port Service Name: sift-uft
+
+Port number : 609
+Port Service Name: npmp-trap
+
+Port number : 610
+Port Service Name: npmp-local
+
+Port number : 611
+Port Service Name: npmp-gui
+
+Port number : 612
+Port Service Name: hmmp-ind
+
+Port number : 613
+Port Service Name: hmmp-op
+
+Port number : 614
+Port Service Name: sshell
+
+Port number : 615
+Port Service Name: sco-inetmgr
+
+Port number : 616
+Port Service Name: sco-sysmgr
+
+Port number : 617
+Port Service Name: sco-dtmgr
+
+Port number : 618
+Port Service Name: dei-icda
+
+Port number : 619
+Port Service Name: compaq-evm
+
+Port number : 620
+Port Service Name: sco-websrvrmgr
+
+Port number : 621
+Port Service Name: escp-ip
+
+Port number : 622
+Port Service Name: collaborator
+
+Port number : 623
+Port Service Name: oob-ws-http
+
+Port number : 624
+Port Service Name: cryptoadmin
+
+Port number : 625
+Port Service Name: dec_dlm
+
+Port number : 626
+Port Service Name: asia
+
+Port number : 627
+Port Service Name: passgo-tivoli
+
+Port number : 628
+Port Service Name: qmqp
+
+Port number : 629
+Port Service Name: 3com-amp3
+
+Port number : 630
+Port Service Name: rda
+
+Port number : 631
+Port Service Name: ipp
+
+Port number : 632
+Port Service Name: bmpp
+
+Port number : 633
+Port Service Name: servstat
+
+Port number : 634
+Port Service Name: ginad
+
+Port number : 635
+Port Service Name: rlzdbase
+
+Port number : 636
+Port Service Name: ldaps
+
+Port number : 637
+Port Service Name: lanserver
+
+Port number : 638
+Port Service Name: mcns-sec
+
+Port number : 639
+Port Service Name: msdp
+
+Port number : 640
+Port Service Name: entrust-sps
+
+Port number : 641
+Port Service Name: repcmd
+
+Port number : 642
+Port Service Name: esro-emsdp
+
+Port number : 643
+Port Service Name: sanity
+
+Port number : 644
+Port Service Name: dwr
+
+Port number : 645
+Port Service Name: pssc
+
+Port number : 646
+Port Service Name: ldp
+
+Port number : 647
+Port Service Name: dhcp-failover
+
+Port number : 648
+Port Service Name: rrp
+
+Port number : 649
+Port Service Name: cadview-3d
+
+Port number : 650
+Port Service Name: obex
+
+Port number : 651
+Port Service Name: ieee-mms
+
+Port number : 652
+Port Service Name: hello-port
+
+Port number : 653
+Port Service Name: repscmd
+
+Port number : 654
+Port Service Name: aodv
+
+Port number : 655
+Port Service Name: tinc
+
+Port number : 656
+Port Service Name: spmp
+
+Port number : 657
+Port Service Name: rmc
+
+Port number : 658
+Port Service Name: tenfold
+
+Port number : 660
+Port Service Name: mac-srvr-admin
+
+Port number : 661
+Port Service Name: hap
+
+Port number : 662
+Port Service Name: pftp
+
+Port number : 663
+Port Service Name: purenoise
+
+Port number : 664
+Port Service Name: oob-ws-https
+
+Port number : 665
+Port Service Name: sun-dr
+
+Port number : 666
+Port Service Name: mdqs
+
+Port number : 667
+Port Service Name: disclose
+
+Port number : 668
+Port Service Name: mecomm
+
+Port number : 669
+Port Service Name: meregister
+
+Port number : 670
+Port Service Name: vacdsm-sws
+
+Port number : 671
+Port Service Name: vacdsm-app
+
+Port number : 672
+Port Service Name: vpps-qua
+
+Port number : 673
+Port Service Name: cimplex
+
+Port number : 674
+Port Service Name: acap
+
+Port number : 675
+Port Service Name: dctp
+
+Port number : 676
+Port Service Name: vpps-via
+
+Port number : 677
+Port Service Name: vpp
+
+Port number : 678
+Port Service Name: ggf-ncp
+
+Port number : 679
+Port Service Name: mrm
+
+Port number : 680
+Port Service Name: entrust-aaas
+
+Port number : 681
+Port Service Name: entrust-aams
+
+Port number : 682
+Port Service Name: xfr
+
+Port number : 683
+Port Service Name: corba-iiop
+
+Port number : 684
+Port Service Name: corba-iiop-ssl
+
+Port number : 685
+Port Service Name: mdc-portmapper
+
+Port number : 686
+Port Service Name: hcp-wismar
+
+Port number : 687
+Port Service Name: asipregistry
+
+Port number : 688
+Port Service Name: realm-rusd
+
+Port number : 689
+Port Service Name: nmap
+
+Port number : 690
+Port Service Name: vatp
+
+Port number : 691
+Port Service Name: msexch-routing
+
+Port number : 692
+Port Service Name: hyperwave-isp
+
+Port number : 693
+Port Service Name: connendp
+
+Port number : 694
+Port Service Name: ha-cluster
+
+Port number : 695
+Port Service Name: ieee-mms-ssl
+
+Port number : 696
+Port Service Name: rushd
+
+Port number : 697
+Port Service Name: uuidgen
+
+Port number : 698
+Port Service Name: olsr
+
+Port number : 699
+Port Service Name: accessnetwork
+
+Port number : 701
+Port Service Name: lmp
+
+Port number : 702
+Port Service Name: iris-beep
+
+Port number : 704
+Port Service Name: elcsd
+
+Port number : 705
+Port Service Name: agentx
+
+Port number : 706
+Port Service Name: silc
+
+Port number : 707
+Port Service Name: borland-dsj
+
+Port number : 709
+Port Service Name: entrust-kmsh
+
+Port number : 710
+Port Service Name: entrust-ash
+
+Port number : 711
+Port Service Name: cisco-tdp
+
+Port number : 712
+Port Service Name: tbrpf
+
+Port number : 713
+Port Service Name: iris-xpc
+
+Port number : 714
+Port Service Name: iris-xpcs
+
+Port number : 715
+Port Service Name: iris-lwz
+
+Port number : 716
+Port Service Name: pana
+
+Port number : 729
+Port Service Name: netviewdm1
+
+Port number : 730
+Port Service Name: netviewdm2
+
+Port number : 731
+Port Service Name: netviewdm3
+
+Port number : 741
+Port Service Name: netgw
+
+Port number : 742
+Port Service Name: netrcs
+
+Port number : 744
+Port Service Name: flexlm
+
+Port number : 747
+Port Service Name: fujitsu-dev
+
+Port number : 748
+Port Service Name: ris-cm
+
+Port number : 749
+Port Service Name: kerberos-adm
+
+Port number : 750
+Port Service Name: kerberos-iv
+
+Port number : 751
+Port Service Name: kerberos_master
+
+Port number : 752
+Port Service Name: passwd_server
+
+Port number : 753
+Port Service Name: rrh
+
+Port number : 754
+Port Service Name: krb5_prop
+
+Port number : 758
+Port Service Name: nlogin
+
+Port number : 759
+Port Service Name: con
+
+Port number : 760
+Port Service Name: krbupdate
+
+Port number : 761
+Port Service Name: rxe
+
+Port number : 762
+Port Service Name: quotad
+
+Port number : 763
+Port Service Name: cycleserv
+
+Port number : 764
+Port Service Name: omserv
+
+Port number : 765
+Port Service Name: webster
+
+Port number : 767
+Port Service Name: phonebook
+
+Port number : 769
+Port Service Name: vid
+
+Port number : 770
+Port Service Name: cadlock
+
+Port number : 771
+Port Service Name: rtip
+
+Port number : 772
+Port Service Name: cycleserv2
+
+Port number : 773
+Port Service Name: submit
+
+Port number : 774
+Port Service Name: rpasswd
+
+Port number : 775
+Port Service Name: entomb
+
+Port number : 776
+Port Service Name: wpages
+
+Port number : 777
+Port Service Name: multiling-http
+
+Port number : 780
+Port Service Name: wpgs
+
+Port number : 800
+Port Service Name: mdbs_daemon
+
+Port number : 801
+Port Service Name: device
+
+Port number : 802
+Port Service Name: mbap-s
+
+Port number : 808
+Port Service Name: omirr
+
+Port number : 810
+Port Service Name: fcp-udp
+
+Port number : 828
+Port Service Name: itm-mcell-s
+
+Port number : 829
+Port Service Name: pkix-3-ca-ra
+
+Port number : 830
+Port Service Name: netconf-ssh
+
+Port number : 831
+Port Service Name: netconf-beep
+
+Port number : 832
+Port Service Name: netconfsoaphttp
+
+Port number : 833
+Port Service Name: netconfsoapbeep
+
+Port number : 847
+Port Service Name: dhcp-failover2
+
+Port number : 848
+Port Service Name: gdoi
+
+Port number : 853
+Port Service Name: domain-s
+
+Port number : 854
+Port Service Name: dlep
+
+Port number : 860
+Port Service Name: iscsi
+
+Port number : 861
+Port Service Name: owamp-control
+
+Port number : 862
+Port Service Name: twamp-control
+
+Port number : 871
+Port Service Name: supfilesrv
+
+Port number : 873
+Port Service Name: rsync
+
+Port number : 875
+Port Service Name: rquotad
+
+Port number : 886
+Port Service Name: iclcnet-locate
+
+Port number : 887
+Port Service Name: iclcnet_svinfo
+
+Port number : 888
+Port Service Name: cddbp
+
+Port number : 900
+Port Service Name: omginitialrefs
+
+Port number : 901
+Port Service Name: swat
+
+Port number : 902
+Port Service Name: ideafarm-door
+
+Port number : 903
+Port Service Name: ideafarm-panic
+
+Port number : 910
+Port Service Name: kink
+
+Port number : 911
+Port Service Name: xact-backup
+
+Port number : 912
+Port Service Name: apex-mesh
+
+Port number : 913
+Port Service Name: apex-edge
+
+Port number : 953
+Port Service Name: rndc
+
+Port number : 989
+Port Service Name: ftps-data
+
+Port number : 990
+Port Service Name: ftps
+
+Port number : 991
+Port Service Name: nas
+
+Port number : 992
+Port Service Name: telnets
+
+Port number : 993
+Port Service Name: imaps
+
+Port number : 995
+Port Service Name: pop3s
+
+Port number : 996
+Port Service Name: vsinet
+
+Port number : 997
+Port Service Name: maitrd
+
+Port number : 998
+Port Service Name: busboy
+
+Port number : 999
+Port Service Name: garcon
+
+Port number : 1000
+Port Service Name: cadlock2
+
+Port number : 1001
+Port Service Name: webpush
+
+Port number : 1010
+Port Service Name: surf
+
+Port number : 1021
+Port Service Name: exp1
+
+Port number : 1022
+Port Service Name: exp2
+
