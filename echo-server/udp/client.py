@@ -1,27 +1,22 @@
+#!/usr/bin/env python3 
 import socket 
 import argparse 
 import sys
-#!/usr/bin/env python3 
-
+# UDP echo client
 host = 'localhost'
-
+data_payload = 2048
 def echo_client(port):
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_address = (host,port)
     print(f"Connecting to: {host} on port : {port}\n")
-    sock.connect(server_address) # Attempt connection to server
-    # Send data
+    message = "Test msg , this is a test."
     try: 
-        message = "Test msg , this is a test."
+        message = "Test msg , this will be echoed"
         print(f"Sending: {message} to server.\n")
-        sock.sendall(message.encode('utf-8')) # Send message encoded in utf-8 
+        sock.sendto(message.encode('utf-8'), server_address) # Send message encoded in utf-8 
         # Look for response 
-        amount_recv = 0
-        amount_exp = len(message) # Length of message should be same lenght as the message should only be echoed back to the client 
-        while amount_recv < amount_exp: 
-            data = sock.recv(16) # Receive 16-bytes at a time 
-            amount_recv += len(data)
-            print(f"Received : {data}\n")
+        data, server = sock.recvfrom(data_payload) 
+        print(f"Received : {data}\n")
 
     except socket.error as e:
         print(f"Socket error: {str(e)}\n")
