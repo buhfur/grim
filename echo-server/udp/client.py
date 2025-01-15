@@ -6,7 +6,7 @@ import sys
 host = 'localhost'
 data_payload = 2048
 def echo_client(port):
-    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     server_address = (host,port)
     print(f"Connecting to: {host} on port : {port}\n")
     message = "Test msg , this is a test."
